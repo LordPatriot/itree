@@ -1,4 +1,5 @@
-__author__ = 'bozo'
+__author__ = 'LordPatriot'
+
 
 class Node():
     def __init__(self, median):

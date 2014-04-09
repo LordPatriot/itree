@@ -1,4 +1,4 @@
-__author__ = 'bozo'
+__author__ = 'LordPatriot'
 
 
 class Interval():
